@@ -1,0 +1,32 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore environment variable files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any logs or temp data
+*.log
+*.tmp
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore OS generated files
+*.bak
+
+# If you ever zip/compress the project
+*.zip
+*.rar
